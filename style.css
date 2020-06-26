@@ -1,53 +1,53 @@
-*{
-    padding:0px;
-    margin:0px;
-    border:0px;
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
 }
 
-html{
-    height:100%;
-    margin:0px;
-    padding:0px;
+html {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 
-body{
-    background-color: lavenderblush;
-    background-image: url("wendyportfolio.jpeg");
- background-position: 100% 0; 
- background-repeat: no-repeat; 
- background-size: 60% 100vh;
- height:100%;
-    margin:0px;
-    padding:0px;
+body {
+  background-color: lavenderblush;
+  background-image: url("./assets/img/wendyportfolio.jpeg");
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  background-size: 60% 100vh;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 
-a.nav-link{
-    color:white !important;
+a.nav-link {
+  color: white !important;
 }
 
-.homePageStyling{
-   
-    height:100%;
-    padding-top: 20%;
+.homePageStyling {
+  height: 100%;
+  padding-top: 20%;
 
-    font-family: 'Libre Baskerville', serif;
+  font-family: "Libre Baskerville", serif;
 
-    font-weight: 900;
-    margin-left:20px;
+  font-weight: 900;
+  margin-left: 20px;
 }
 
-h1{
-    font-size:70px
+h1 {
+  font-size: 70px;
 }
 
-.iconStyle{
-    margin-right: 20px;
+.iconStyle {
+  margin-right: 20px;
 }
 
-h2, h3{
-  color: #bfbfbf
+h2,
+h3 {
+  color: #bfbfbf;
 }
 
-p{
-    font-family: 'Libre Baskerville', serif !important;
+p {
+  font-family: "Libre Baskerville", serif !important;
 }
