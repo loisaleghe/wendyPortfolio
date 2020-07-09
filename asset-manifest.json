@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/wendyPortfolio/static/css/main.8428b7ad.chunk.css",
-    "main.js": "/wendyPortfolio/static/js/main.734baa10.chunk.js",
-    "main.js.map": "/wendyPortfolio/static/js/main.734baa10.chunk.js.map",
-    "runtime-main.js": "/wendyPortfolio/static/js/runtime-main.84965329.js",
-    "runtime-main.js.map": "/wendyPortfolio/static/js/runtime-main.84965329.js.map",
-    "static/js/2.44727926.chunk.js": "/wendyPortfolio/static/js/2.44727926.chunk.js",
-    "static/js/2.44727926.chunk.js.map": "/wendyPortfolio/static/js/2.44727926.chunk.js.map",
-    "index.html": "/wendyPortfolio/index.html",
-    "precache-manifest.b87724ba9fd0ed3d66e7d0423b35cdcc.js": "/wendyPortfolio/precache-manifest.b87724ba9fd0ed3d66e7d0423b35cdcc.js",
-    "service-worker.js": "/wendyPortfolio/service-worker.js",
-    "static/css/main.8428b7ad.chunk.css.map": "/wendyPortfolio/static/css/main.8428b7ad.chunk.css.map",
-    "static/js/2.44727926.chunk.js.LICENSE.txt": "/wendyPortfolio/static/js/2.44727926.chunk.js.LICENSE.txt",
-    "static/media/Taskit.jpeg": "/wendyPortfolio/static/media/Taskit.cf706cd0.jpeg",
-    "static/media/demo.png": "/wendyPortfolio/static/media/demo.1d22aac6.png",
-    "static/media/noteTaker.jpeg": "/wendyPortfolio/static/media/noteTaker.4796953f.jpeg",
-    "static/media/scheduler.png": "/wendyPortfolio/static/media/scheduler.4a748f34.png",
-    "static/media/vocabulary.jpeg": "/wendyPortfolio/static/media/vocabulary.e3d3c53e.jpeg",
-    "static/media/App.css": "/wendyPortfolio/static/media/wendyportfolio.ce98b3c3.jpeg"
+    "main.css": "/static/css/main.a4c7d8db.chunk.css",
+    "main.js": "/static/js/main.9c53c677.chunk.js",
+    "main.js.map": "/static/js/main.9c53c677.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21e4bbbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21e4bbbf.js.map",
+    "static/js/2.44727926.chunk.js": "/static/js/2.44727926.chunk.js",
+    "static/js/2.44727926.chunk.js.map": "/static/js/2.44727926.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21b9d9e864d116329d2e05c02ee634c4.js": "/precache-manifest.21b9d9e864d116329d2e05c02ee634c4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a4c7d8db.chunk.css.map": "/static/css/main.a4c7d8db.chunk.css.map",
+    "static/js/2.44727926.chunk.js.LICENSE.txt": "/static/js/2.44727926.chunk.js.LICENSE.txt",
+    "static/media/Taskit.jpeg": "/static/media/Taskit.cf706cd0.jpeg",
+    "static/media/demo.png": "/static/media/demo.1d22aac6.png",
+    "static/media/noteTaker.jpeg": "/static/media/noteTaker.4796953f.jpeg",
+    "static/media/scheduler.png": "/static/media/scheduler.4a748f34.png",
+    "static/media/vocabulary.jpeg": "/static/media/vocabulary.e3d3c53e.jpeg",
+    "static/media/App.css": "/static/media/wendyportfolio.ce98b3c3.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84965329.js",
+    "static/js/runtime-main.21e4bbbf.js",
     "static/js/2.44727926.chunk.js",
-    "static/css/main.8428b7ad.chunk.css",
-    "static/js/main.734baa10.chunk.js"
+    "static/css/main.a4c7d8db.chunk.css",
+    "static/js/main.9c53c677.chunk.js"
   ]
 }
